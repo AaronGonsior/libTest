@@ -1,3 +1,3 @@
-module github.com/aarongonsior/libTest
+module github.com/AaronGonsior/libTest
 
 go 1.16
